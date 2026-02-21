@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github.com/TyperBody/TyperBody/raw/main/1.png" width="500">
+  <img src="https://github.com/TyperBody/TyperBody/raw/main/1.png" width="200">
 </div>
 <!--
 **TyperBody/TyperBody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
