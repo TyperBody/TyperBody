@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 ## It's difficult to guess(((
 
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=TyperBody&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="TyperBody's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TyperBody&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
