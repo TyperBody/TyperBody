@@ -26,5 +26,35 @@ Here are some ideas to get you started:
 
 # 项目进度
 
-[![项目A](https://img.shields.io/badge/dynamic/json?url=https://your-api.com/projects.json&query=$.projectA.plan&label=项目A&color=blue)](https://github.com/yourname/project-a)
-[![项目B](https://img.shields.io/badge/dynamic/json?url=https://your-api.com/projects.json&query=$.projectB.plan&label=项目B&color=yellow)](https://github.com/yourname/project-b)
+<div style="display: flex; gap: 24px; flex-wrap: wrap;">
+
+<!-- LangBot 项目 -->
+<div style="flex: 1; min-width: 280px;">
+<h3>🤖 LangBot</h3>
+
+| 模块 | 计划 | 状态 |
+| :--- | :--- | :--- |
+| 插件Page组件 | 基础开发 | ![完成](https://img.shields.io/badge/-完成-brightgreen) |
+| 插件系统优化 | 重构设计 | ![返工](https://img.shields.io/badge/-返工-orange) |
+| workflow流 | 核心能力 | ![进行中](https://img.shields.io/badge/-进行中-blue) |
+| 类Rbac用户系统 | 权限控制 | ![暂停](https://img.shields.io/badge/-暂停-lightgrey) |
+| 插件Skill更新 | 技能扩展 | ![停止](https://img.shields.io/badge/-停止-red) |
+| MaiBot功能迁移插件 | 功能移植 | ![停止](https://img.shields.io/badge/-停止-red) |
+| 混合记忆插件 | 记忆优化 | ![停止](https://img.shields.io/badge/-停止-red) |
+
+</div>
+
+<!-- E-SPower 项目 -->
+<div style="flex: 1; min-width: 280px;">
+<h3>⚡ E-SPower</h3>
+
+| 模块 | 计划 | 状态 |
+| :--- | :--- | :--- |
+| 电商聚合接口 | 接口整合 | ![完成](https://img.shields.io/badge/-完成-brightgreen) |
+| 电商接入适配器 | 接入标准化 | ![进行中](https://img.shields.io/badge/-进行中-blue) |
+| 接入LangBot示例 | 集成演示 | ![停止](https://img.shields.io/badge/-停止-red) |
+| 内置简单框架 | 基础框架 | ![未开始](https://img.shields.io/badge/-未开始-lightgrey) |
+
+</div>
+
+</div>
