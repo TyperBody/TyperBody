@@ -26,32 +26,80 @@ Here are some ideas to get you started:
 
 # 项目进度
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🤖 LangBot</h3>
+<div style="display: flex; gap: 24px; flex-wrap: wrap; justify-content: space-between;">
+  
+  <!-- LangBot 项目 -->
+  <div style="flex: 1; min-width: 280px;">
+    <h3>🤖 LangBot</h3>
+    <table style="width: 100%; border-collapse: collapse;">
+      <thead>
+        <tr><th style="text-align: left; padding: 8px; border-bottom: 2px solid #ddd;">模块</th>
+          <th style="text-align: left; padding: 8px; border-bottom: 2px solid #ddd;">计划</th>
+          <th style="text-align: left; padding: 8px; border-bottom: 2px solid #ddd;">状态</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">插件Page组件</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">基础开发</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/完成-brightgreen" alt="完成"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">插件系统优化</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">重构设计</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/返工-orange" alt="返工"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">workflow流</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">核心能力</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/进行中-blue" alt="进行中"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">类Rbac用户系统</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">权限控制</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/暂停-lightgrey" alt="暂停"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">插件Skill更新</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">技能扩展</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/停止-red" alt="停止"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">MaiBot功能迁移插件</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">功能移植</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/停止-red" alt="停止"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">混合记忆插件</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">记忆优化</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/停止-red" alt="停止"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-| 模块 | 状态 |
-| :--- | :--- |
-| 插件Page组件 | ✅ 完成 |
-| 插件系统优化 | 🔄 返工 |
-| workflow流 | ▶️ 进行中 |
-| 类Rbac用户系统 | ⏸️ 暂停 |
-| 插件Skill更新 | 🛑 停止 |
-| MaiBot功能迁移插件 | 🛑 停止 |
-| 混合记忆插件 | 🛑 停止 |
+  <!-- E-SPower 项目 -->
+  <div style="flex: 1; min-width: 280px;">
+    <h3>⚡ E-SPower</h3>
+    <table style="width: 100%; border-collapse: collapse;">
+      <thead>
+        <tr><th style="text-align: left; padding: 8px; border-bottom: 2px solid #ddd;">模块</th>
+          <th style="text-align: left; padding: 8px; border-bottom: 2px solid #ddd;">计划</th>
+          <th style="text-align: left; padding: 8px; border-bottom: 2px solid #ddd;">状态</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">电商聚合接口</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">接口整合</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/完成-brightgreen" alt="完成"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">电商接入适配器</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">接入标准化</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/进行中-blue" alt="进行中"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">接入LangBot示例</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">集成演示</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/停止-red" alt="停止"></td>
+        </tr>
+        <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">内置简单框架</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;">基础框架</td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/未开始-lightgrey" alt="未开始"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-    </td>
-    <td valign="top" width="50%">
-      <h3>⚡ E-SPower</h3>
-
-| 模块 | 状态 |
-| :--- | :--- |
-| 电商聚合接口 | ✅ 完成 |
-| 电商接入适配器 | ▶️ 进行中 |
-| 接入LangBot示例 | 🛑 停止 |
-| 内置简单框架 | ⏸️ 未开始 |
-
-    </td>
-  </tr>
-</table>
+</div>
