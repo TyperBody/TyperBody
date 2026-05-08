@@ -53,19 +53,19 @@ Here are some ideas to get you started:
         </tr>
         <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">类Rbac用户系统</td>
           <td style="padding: 8px; border-bottom: 1px solid #eee;">权限控制</td>
-          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/进行中-lightgrey" alt="暂停"></td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/进行中-lightgrey" alt="更换负责人"></td>
         </tr>
         <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">插件Skill更新</td>
           <td style="padding: 8px; border-bottom: 1px solid #eee;">技能扩展</td>
-          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/保密-red" alt="停止"></td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/保密-brightgreen" alt="进行中"></td>
         </tr>
         <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">MaiBot功能迁移插件</td>
           <td style="padding: 8px; border-bottom: 1px solid #eee;">功能移植</td>
-          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/待定-red" alt="停止"></td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/待定-lightgrey" alt="进行中"></td>
         </tr>
         <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">混合记忆插件</td>
           <td style="padding: 8px; border-bottom: 1px solid #eee;">记忆优化</td>
-          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/规划中-red" alt="停止"></td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/规划中-lightgrey" alt="进行中"></td>
         </tr>
       </tbody>
     </table>
