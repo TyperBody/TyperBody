@@ -45,7 +45,7 @@ Here are some ideas to get you started:
         </tr>
         <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">插件系统优化</td>
           <td style="padding: 8px; border-bottom: 1px solid #eee;">重构设计</td>
-          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/返工不干了-orange" alt="返工"></td>
+          <td style="padding: 8px; border-bottom: 1px solid #eee;"><img src="https://img.shields.io/badge/交接完毕-orange" alt="返工"></td>
         </tr>
         <tr><td style="padding: 8px; border-bottom: 1px solid #eee;">workflow流</td>
           <td style="padding: 8px; border-bottom: 1px solid #eee;">核心能力</td>
