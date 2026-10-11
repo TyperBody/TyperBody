@@ -4,7 +4,6 @@
   <img src="https://github.com/TyperBody/TyperBody/raw/main/1.png" width="200">
 </div>
 
-![](https://komarev.com/ghpvc/?username=TyperBody)
 <!--
 **TyperBody/TyperBody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
